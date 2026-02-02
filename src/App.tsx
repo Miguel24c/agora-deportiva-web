@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { ArrowRight, Headphones, Menu, Play } from "lucide-react";
 
 /**
@@ -41,6 +41,7 @@ type Episode = {
   youtube: string;
   spotify: string;
   date: string; // YYYY-MM-DD
+  cover?: string;
 };
 
 function formatDateEsCO(dateISO: string): string {
@@ -134,66 +135,18 @@ function SecondaryLink({
 }
 
 export default function App() {
-  const episodes: Episode[] = [
-    {
-      id: "ep-01",
-      guest: "Invitado/a",
-      title: "Título del episodio (placeholder)",
-      blurb:
-        "Una conversación sobre mentalidad, proceso y lo que no se ve detrás del rendimiento.",
-      youtube: YOUTUBE_URL,
-      spotify: SPOTIFY_URL,
-      date: "2025-12-01",
-    },
-    {
-      id: "ep-02",
-      guest: "Invitado/a",
-      title: "Título del episodio (placeholder)",
-      blurb:
-        "Historias reales, aprendizajes prácticos y reflexiones para entrenadores y deportistas.",
-      youtube: YOUTUBE_URL,
-      spotify: SPOTIFY_URL,
-      date: "2025-11-15",
-    },
-    {
-      id: "ep-03",
-      guest: "Invitado/a",
-      title: "Título del episodio (placeholder)",
-      blurb: "Formación, disciplina y cultura deportiva: cómo se construye consistencia.",
-      youtube: YOUTUBE_URL,
-      spotify: SPOTIFY_URL,
-      date: "2025-11-01",
-    },
-    {
-      id: "ep-04",
-      guest: "Invitado/a",
-      title: "Título del episodio (placeholder)",
-      blurb: "El deporte más allá del resultado: ideas, datos y contexto.",
-      youtube: YOUTUBE_URL,
-      spotify: SPOTIFY_URL,
-      date: "2025-10-15",
-    },
-    {
-      id: "ep-05",
-      guest: "Invitado/a",
-      title: "Título del episodio (placeholder)",
-      blurb: "Rutinas, recuperación y hábitos: lo que realmente sostiene el progreso.",
-      youtube: YOUTUBE_URL,
-      spotify: SPOTIFY_URL,
-      date: "2025-10-01",
-    },
-    {
-      id: "ep-06",
-      guest: "Invitado/a",
-      title: "Título del episodio (placeholder)",
-      blurb: "Competir, perder, volver: resiliencia y construcción de carácter.",
-      youtube: YOUTUBE_URL,
-      spotify: SPOTIFY_URL,
-      date: "2025-09-15",
-    },
-  ];
+  const [episodes, setEpisodes] = useState<Episode[]>([]);
 
-  const latest = episodes[0];
+  useEffect(() => {
+  fetch("/episodes.json")
+    .then((res) => res.json())
+    .then((data: Episode[]) => setEpisodes(data))
+    .catch((err) => console.error("Error cargando episodios", err));
+  }, []);
+
+
+  const latest = episodes.length > 0 ? episodes[0] : null;
+
 
   return (
     <div className="min-h-screen" style={{ backgroundColor: COLORS.bg, color: COLORS.text }}>
@@ -304,6 +257,7 @@ export default function App() {
               </div>
 
               <div className="md:pl-6">
+              {latest && (
                 <div
                   id="ultimo-episodio"
                   className="rounded-3xl border p-6 shadow-sm"
@@ -326,7 +280,15 @@ export default function App() {
                       <Play className="h-5 w-5" />
                     </div>
                   </div>
-
+                  
+                   {latest.cover && (
+                     <img
+                       src={latest.cover}
+                       alt={`Portada ${latest.title}`}
+                       className="mt-4 h-44 w-full rounded-2xl object-cover"
+                    />
+                   )}  
+ 
                   <p className="mt-4 text-sm leading-relaxed" style={{ color: COLORS.muted }}>
                     {latest.blurb}
                   </p>
@@ -358,7 +320,7 @@ export default function App() {
                     </ul>
                   </div>
                 </div>
-
+              )}
                 <div
                   className="mt-4 rounded-3xl border p-6 shadow-sm"
                   style={{ borderColor: COLORS.border, backgroundColor: COLORS.surface }}
@@ -408,6 +370,14 @@ export default function App() {
                 className="group rounded-3xl border p-5 shadow-sm transition hover:-translate-y-0.5 hover:opacity-95"
                 style={{ borderColor: COLORS.border, backgroundColor: COLORS.surface }}
               >
+                {ep.cover && (
+                  <img
+                   src={ep.cover}
+                   alt={`Portada ${ep.title}`}
+                   className="mb-4 h-40 w-full rounded-2xl object-cover"
+                  />
+                )}
+
                 <div className="flex items-start justify-between gap-4">
                   <div>
                     <p className="text-xs font-semibold tracking-wide" style={{ color: COLORS.muted }}>

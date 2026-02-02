@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ep-005",
+    "guest": "Harold Lozano",
+    "title": "Conversación con Harold Lozano: Mentalidad, Lesión, Retiro y Su Escuela de Fútbol",
+    "blurb": "Selección Colombia, experiencia internacional y madurez competitiva.",
+    "youtube": "https://www.youtube.com/watch?v=_Lmusdu6gPE",
+    "spotify": "https://open.spotify.com/episode/3ea9KuuOYHFtHbTGhxBrWk?si=eQeY2OynRRqS2tTTLVdK_Q",
+    "date": "2025-10-16",
+    "cover": "/episodes/ep-005.jpg"
+  },
+  {
+    "id": "ep-004",
+    "guest": "Juan Alejandro Pérez",
+    "title": "La mente del atleta: claves de un psicólogo deportivo",
+    "blurb": "Psicología deportiva, diferencias entre un deportista de élite y uno en proceso de formación.",
+    "youtube": "https://www.youtube.com/watch?v=Hvo-DQByM2I",
+    "spotify": "https://open.spotify.com/episode/6szp09dRjAOd51pT9PdQOE?si=5bSEFWXsQxu-0ZvdxWTOkw",
+    "date": "2025-11-17",
+    "cover": "/episodes/ep-004.jpg"
+  },
+  {
+    "id": "ep-003",
+    "guest": "Alexander Bonilla",
+    "title": "No todo jugador es buen entrenador, 35 años de legado",
+    "blurb": "Selección Colombia, experiencia internacional y madurez competitiva.",
+    "youtube": "https://www.youtube.com/watch?v=Mu_wOk8OX8g",
+    "spotify": "https://open.spotify.com/episode/7HelOojKtSfuawB8pBhZYX?si=F31lqhk7Sn6RkXIWhDPRzQ",
+    "date": "2025-10-28",
+    "cover": "/episodes/ep-003.jpg"
+  },
+  {
+    "id": "ep-002",
+    "guest": "Daniel Medina",
+    "title": "De Valle a la Selección Colombia, jugar voleibol en el exterior",
+    "blurb": "Selección Colombia, experiencia internacional y madurez competitiva.",
+    "youtube": "https://www.youtube.com/watch?v=Hvo-DQByM2I",
+    "spotify": "https://open.spotify.com/episode/3ea9KuuOYHFtHbTGhxBrWk?si=eQeY2OynRRqS2tTTLVdK_Q",
+    "date": "2025-10-16",
+    "cover": "/episodes/ep-002.jpg"
+  },
+  {
+    "id": "ep-001",
+    "guest": "María José Moncada",
+    "title": "Disciplina, dolor y propósito, Sel. Colombia voleibol",
+    "blurb": "Lesiones, identidad deportiva y resiliencia.",
+    "youtube": "https://www.youtube.com/watch?v=jPcqJDFEpKs",
+    "spotify": "https://open.spotify.com/episode/39PaHZ2zunLkbiMbtEd9CR?si=948gnKbmSteJ4UTVF31Yng",
+    "date": "2025-10-08",
+    "cover": "/episodes/ep-001.jpg"
+  }
+]
