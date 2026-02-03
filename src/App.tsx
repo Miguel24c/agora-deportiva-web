@@ -525,7 +525,7 @@ export default function App() {
         <div className="mx-auto max-w-6xl px-4 py-10">
           <div className="flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
             <div className="flex items-center gap-3">
-              <img src="/logo-agora-deportiva.png" alt="Ágora Deportiva" className="h-10 w-auto" />
+              <img src="/favicon-32.png" alt="Ágora Deportiva" className="h-10 w-auto" />
               <div>
                 <div className="text-sm font-semibold tracking-wide">ÁGORA DEPORTIVA</div>
                 <div className="text-xs" style={{ color: COLORS.muted }}>
