@@ -1,0 +1,49 @@
+{
+  "id": "ep-007",
+  "slug": "ep-007",
+  "guest": "Alejandro Perlaza",
+  "title": "2 Juegos Olímpicos | Cómo funciona un ciclo olímpico | Atletismo Colombiano",
+  "blurb": "Alejandro Perlaza, atleta colombiano de 400 metros planos y relevo 4x400, ha representado a Colombia en Río 2016 y Tokio 2020, compitiendo contra los mejores del mundo.",
+  "description": "¿Qué se necesita realmente para llegar a unos Juegos Olímpicos?\n\nAlejandro Perlaza, atleta colombiano de 400 metros planos y relevo 4x400, ha representado a Colombia en Río 2016 y Tokio 2020, compitiendo contra los mejores del mundo.\n\nEn este episodio hablamos sobre cómo funciona un ciclo olímpico, cómo se clasifica a unos Juegos Olímpicos, qué hay detrás de la delegación y el apoyo al atleta, la experiencia real dentro de la Villa Olímpica, y lo que significa competir en el escenario más grande del deporte.\n\nMás allá del espectáculo, esta es una conversación sobre proceso, disciplina y lo que realmente implica llegar al nivel olímpico.",
+  "guestBio": "Alejandro Perlaza es atleta colombiano especialista en los 400 metros planos y el relevo 4x400. Con más de 17 años de trayectoria, representó a Colombia en los Juegos Olímpicos de Río 2016 y Tokio 2020. Su primera clasificación olímpica llegó por la vía del relevo —esperando hasta el último día del ranking para confirmar su cupo— después de quedarse a 5 centésimas de la marca individual (45.45 vs 45.40). Comenzó a soñar con los Olímpicos a los 14 años viendo los Juegos de Londres 2012 en televisión. Su historia ejemplifica que llegar a los Juegos Olímpicos requiere cuatro años completos de competencias mundiales, sudamericanos, panamericanos e iberoamericanos acumulando puntos de ranking.",
+  "highlights": [
+    "Clasificó a Río 2016 por el relevo 4x400, esperando hasta el último día del ranking —cualquier país podía entrar y sacarlo en el cierre.",
+    "En su primera clasificación individual se quedó a 5 centésimas de la marca: hizo 45.45 cuando pedían 45.40.",
+    "Un ciclo olímpico son 4 años de mundiales, sudamericanos, panamericanos e iberoamericanos acumulando puntos de ranking.",
+    "Diferencia crucial: en relevos no clasificas individualmente. Tocó esperar hasta el cierre total de clasificaciones para saber si Colombia tenía cupo.",
+    "La Villa Olímpica es una experiencia tan grande como la competencia misma: una ciudad de atletas de todo el mundo bajo un mismo techo.",
+    "Lo que le falta al atletismo colombiano: más frecuencia de competencias de calidad dentro del país.",
+    "Empezó a soñar con los Olímpicos a los 14 años viendo a un velocista estadounidense en Londres 2012 por televisión. Años después corrió junto a él."
+  ],
+  "timestamps": [
+    { "time": "0:00", "label": "Introducción" },
+    { "time": "2:51", "label": "Sueño Olímpico" },
+    { "time": "4:37", "label": "Cómo se clasifica a unos Juegos Olímpicos" },
+    { "time": "6:46", "label": "Ciclo Olímpico" },
+    { "time": "11:18", "label": "Apoyo Institucional en el ciclo olímpico" },
+    { "time": "16:34", "label": "Qué se siente llegar a los Juegos" },
+    { "time": "22:13", "label": "4x400 en Río 2016" },
+    { "time": "25:29", "label": "Tokio 2020" },
+    { "time": "32:33", "label": "Cómo funciona la prueba 4x400" },
+    { "time": "37:11", "label": "Qué le falta a los velocistas colombianos" },
+    { "time": "42:44", "label": "Cómo ve Alejandro el futuro del atletismo" },
+    { "time": "45:13", "label": "Cierre" }
+  ],
+  "tags": [
+    "Juegos Olímpicos Colombia atletismo",
+    "Alejandro Perlaza atleta",
+    "400 metros planos Colombia",
+    "relevo 4x400 Colombia",
+    "ciclo olímpico explicado",
+    "clasificación Juegos Olímpicos",
+    "atletismo colombiano alto rendimiento",
+    "Río 2016 Colombia",
+    "Tokio 2020 Colombia",
+    "Villa Olímpica experiencia"
+  ],
+  "youtube": "https://youtu.be/6tdl-1yhF2Y",
+  "spotify": "https://open.spotify.com/episode/2JVYzfZ8DwSWUpb0kW8xYY?si=UwQIw4L4QqaSafx_RHlqZw",
+  "date": "2026-03-19",
+  "cover": "/episodes/ep-007.webp",
+  "category": "Atletismo"
+}

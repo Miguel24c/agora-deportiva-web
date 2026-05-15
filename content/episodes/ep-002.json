@@ -1,0 +1,48 @@
+{
+  "id": "ep-002",
+  "slug": "ep-002",
+  "guest": "Daniel Medina",
+  "title": "De Valle a la Selección Colombia, jugar voleibol en el exterior | Daniel Medina",
+  "blurb": "Selección Colombia, experiencia internacional y madurez competitiva.",
+  "description": "En este episodio conversamos con Daniel Medina, jugador de la Selección Colombia de voleibol mayores, sobre su recorrido dentro y fuera de la cancha, y los retos de construir una carrera en un deporte que sigue buscando consolidarse en el país.\n\nHablamos sobre su camino desde la Selección Valle hasta vestir la camiseta de Colombia, cómo fue la experiencia de jugar en el exterior, cómo funcionan las convocatorias y categorías de la Selección Colombia, el regreso al podio sudamericano después de ocho años, el equilibrio entre estudio y deporte, y la situación actual del voleibol colombiano.",
+  "guestBio": "Daniel Medina es jugador de voleibol de la Selección Colombia de mayores. Formado en la Liga del Valle, pasó por todas las categorías de base (infantil, menores, juvenil, sub21) hasta llegar al primer equipo nacional. Ha vivido la experiencia de jugar profesionalmente en el exterior, incluyendo una temporada en Oriente Medio. Con la Selección Colombia logró una medalla de bronce en el Sudamericano y otra en el Panamericano —este último ante Cuba, en lo que se considera uno de los resultados más importantes del voleibol masculino colombiano en años. Tuvo que pausar su carrera universitaria para atender compromisos con la Selección durante meses de gira internacional. Es un referente de la nueva generación del voleibol colombiano que busca romper el techo del deporte sin liga profesional.",
+  "highlights": [
+    "Colombia derrotó a Cuba en los Panamericanos, un resultado histórico que nadie esperaba. 'Nadie lo creía'.",
+    "Medalla de bronce en Sudamericano y Panamericano: los resultados más importantes del voleibol masculino colombiano en años.",
+    "Tuvo que pausar su carrera universitaria completa para poder ir a las giras internacionales con la Selección. No hay forma de hacer las dos cosas al tiempo.",
+    "Jugó una temporada profesional en Oriente Medio: lo que cambia en un jugador cuando sale por primera vez a competir en el exterior.",
+    "El voleibol colombiano no tiene liga profesional: los clubes existen en papel pero la mayoría no tienen estructura ni entrenamiento continuo.",
+    "El proceso en la Selección Valle fue la base: desde infantil hasta mayores, formado en el mismo sistema que hoy defiende.",
+    "El sueño olímpico de Los Ángeles 2028 es el objetivo que mueve a toda la generación actual del voleibol masculino colombiano."
+  ],
+  "timestamps": [
+    { "time": "0:00", "label": "Inicio" },
+    { "time": "3:00", "label": "Comienzos en la Liga Valle" },
+    { "time": "8:00", "label": "El proceso en categorías menores" },
+    { "time": "15:00", "label": "La convocatoria a la Selección Colombia mayores" },
+    { "time": "22:00", "label": "Jugando en el exterior: la experiencia en Oriente Medio" },
+    { "time": "28:00", "label": "El Sudamericano y el Panamericano" },
+    { "time": "35:00", "label": "Ganarle a Cuba: el partido que cambió todo" },
+    { "time": "40:00", "label": "Estudio y deporte: lo que nadie cuenta" },
+    { "time": "46:00", "label": "El voleibol colombiano hoy: clubes y ausencia de liga" },
+    { "time": "52:00", "label": "El futuro: Los Ángeles 2028" },
+    { "time": "56:00", "label": "Mensaje final" }
+  ],
+  "tags": [
+    "Daniel Medina voleibol Colombia",
+    "Selección Colombia voleibol mayores",
+    "voleibol colombiano exterior",
+    "Liga Valle voleibol",
+    "Panamericano voleibol Colombia Cuba",
+    "Sudamericano voleibol Colombia bronce",
+    "carrera deportiva y universidad Colombia",
+    "voleibol profesional Colombia",
+    "Los Ángeles 2028 voleibol",
+    "nueva generación voleibol colombiano"
+  ],
+  "youtube": "https://www.youtube.com/watch?v=Hvo-DQByM2I",
+  "spotify": "https://open.spotify.com/episode/3ea9KuuOYHFtHbTGhxBrWk?si=eQeY2OynRRqS2tTTLVdK_Q",
+  "date": "2025-10-16",
+  "cover": "/episodes/ep-002.webp",
+  "category": "Voleibol"
+}

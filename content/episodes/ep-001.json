@@ -1,0 +1,47 @@
+{
+  "id": "ep-001",
+  "slug": "ep-001",
+  "guest": "María José Moncada",
+  "title": "Disciplina, dolor y propósito: Selección Colombia de voleibol | María José Moncada",
+  "blurb": "Lesiones, identidad deportiva y resiliencia.",
+  "description": "Desde un pequeño pueblo del Valle del Cauca, María José Moncada comenzó a construir una historia marcada por la disciplina, el dolor y la resiliencia.\n\nEn este primer episodio de Ágora Deportiva, conversamos sobre su camino desde Andalucía (Valle) hasta vestir la camiseta de la Selección Colombia de voleibol, las lesiones que amenazaron con acabar su carrera y cómo logró encontrar fuerza en medio de la adversidad.\n\nHablamos sobre la mentalidad del alto rendimiento, el valor de la preparación física, el apoyo familiar y los procesos que forman a una deportista dentro y fuera de la cancha. Una historia de caídas, aprendizajes y segundas oportunidades.",
+  "guestBio": "María José Moncada es voleibolista colombiana formada en Andalucía, Valle del Cauca —un municipio conocido por producir una cantidad desproporcionada de jugadoras de alto nivel. Empezó a jugar a los 11 años, siguiendo la tradición deportiva de su familia (tíos y mamá practicantes). Antes de especializarse en voleibol intentó patinaje, fútbol y baloncesto. Su formación se caracterizó por la repetición extrema que distingue a Andalucía: '1.000 toques' por sesión era lo normal. Llegó a la Selección Colombia, donde las lesiones pusieron a prueba no solo su físico sino su identidad como deportista. Su historia es un ejemplo de resiliencia, de aprender a volver más fuerte y de encontrar propósito en el proceso cuando el resultado se pone en duda.",
+  "highlights": [
+    "Creció en Andalucía, Valle, un pueblo donde el voleibol se entrena con repetición extrema: 1.000 toques por sesión era lo habitual.",
+    "Empezó a los 11 años por influencia de su familia, no por referentes deportivos: quería jugar con su tío y su mamá.",
+    "Antes del voleibol intentó patinaje, fútbol y baloncesto al mismo tiempo. Su mamá la llevaba a tres deportes distintos por semana.",
+    "Eligió el voleibol sobre deportes individuales porque quería pertenecer a un equipo: la socialización fue parte clave de su motivación.",
+    "Las lesiones no solo afectan el cuerpo: cuestionan la identidad del atleta. ¿Quién soy si no puedo competir?",
+    "El apoyo familiar no es automático: requiere educación, paciencia y entender que el proceso no es lineal.",
+    "Andalucía produce tantas jugadoras de élite porque en un pueblo pequeño no hay muchas distracciones: el deporte llena el tiempo con propósito."
+  ],
+  "timestamps": [
+    { "time": "0:00", "label": "Bienvenida al primer episodio de Ágora Deportiva" },
+    { "time": "3:00", "label": "Los inicios en el voleibol y la influencia familiar" },
+    { "time": "7:00", "label": "Crecer en Andalucía: qué tiene ese pueblo que forma tantas deportistas" },
+    { "time": "12:00", "label": "El camino hacia la Selección Colombia" },
+    { "time": "18:00", "label": "Las lesiones que amenazaron su carrera" },
+    { "time": "25:00", "label": "Identidad deportiva: ¿quién soy cuando no puedo jugar?" },
+    { "time": "31:00", "label": "Mentalidad de alto rendimiento y preparación mental" },
+    { "time": "37:00", "label": "El rol de la familia en el proceso del atleta" },
+    { "time": "43:00", "label": "Aprendizajes y mensaje para jóvenes deportistas" },
+    { "time": "48:00", "label": "Cierre" }
+  ],
+  "tags": [
+    "María José Moncada voleibol",
+    "Selección Colombia voleibol femenino",
+    "Andalucía Valle del Cauca voleibol",
+    "lesiones deportivas identidad atleta",
+    "resiliencia deportiva Colombia",
+    "formación deportiva desde un pueblo",
+    "voleibol femenino colombiano",
+    "primer episodio Ágora Deportiva",
+    "mentalidad alto rendimiento mujeres",
+    "historia deportista colombiana"
+  ],
+  "youtube": "https://www.youtube.com/watch?v=jPcqJDFEpKs",
+  "spotify": "https://open.spotify.com/episode/39PaHZ2zunLkbiMbtEd9CR?si=948gnKbmSteJ4UTVF31Yng",
+  "date": "2025-10-08",
+  "cover": "/episodes/ep-001.webp",
+  "category": "Voleibol"
+}

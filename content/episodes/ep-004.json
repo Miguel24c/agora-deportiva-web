@@ -1,0 +1,49 @@
+{
+  "id": "ep-004",
+  "slug": "ep-004",
+  "guest": "Juan Alejandro Pérez",
+  "title": "La mente del atleta: claves de un psicólogo deportivo",
+  "blurb": "Psicología deportiva, diferencias entre un deportista de élite y uno en proceso de formación.",
+  "description": "En este episodio conversamos con Juan Alejandro, Magíster en Psicología del Rendimiento (Universidad de Edinburgh, top 15 mundial), con formación en neurociencias en la Universidad de Oxford y experiencia directa con modelos de trabajo de clubes como el Manchester United.\n\nEs investigador, escritor de artículos científicos y psicólogo deportivo de clubes profesionales en Colombia.\n\nProfundizamos en qué es la psicología deportiva y por qué es fundamental en el alto rendimiento, cómo es el día a día de un psicólogo deportivo con atletas, las diferencias entre un deportista de élite y uno en proceso de formación, cómo manejar lesiones, ansiedad, presión y momentos difíciles desde lo mental, y herramientas prácticas para atletas, entrenadores y padres.",
+  "guestBio": "Juan Alejandro Pérez es psicólogo del rendimiento, Magíster por la Universidad de Edinburgh (top 15 mundial) con beca completa, y tiene formación en neurociencias por la Universidad de Oxford. Desde los 16-17 años tuvo claro que quería trabajar en el fútbol profesional. Hizo su tesis e investigación con América de Cali (2018), sus prácticas en la cantera del Deportivo Cali (2019, sin remuneración), y hoy trabaja con clubes profesionales en Colombia. Abrió el primer curso de Psicología del Deporte en su universidad hace cuatro años. Ha estudiado los modelos de trabajo del Manchester United y sus enfoques en rendimiento deportivo van más allá del deporte: aplican en negocios, ejército, medicina y equipos de emergencia.",
+  "highlights": [
+    "Estudió su maestría becado en Edinburgh, una de las 15 mejores universidades del mundo. El objetivo era formarse con los mejores.",
+    "Su primer año de práctica profesional fue en la cantera del Deportivo Cali en 2019, sin recibir un peso. Eligió el sueño sobre el salario.",
+    "La psicología deportiva en Colombia sigue siendo un tabú: ir al psicólogo se entiende como señal de problema, no de desarrollo.",
+    "La diferencia entre un atleta de élite y uno en formación no está solo en el talento sino en las herramientas mentales para sostenerlo.",
+    "El 60% del rendimiento en el alto rendimiento es mental: concentración, manejo de la presión, visualización, cohesión de equipo.",
+    "Fue autodidacta desde la universidad: la carrera no ofrecía psicología del deporte, él la construyó por su cuenta.",
+    "Abrió el primer curso de Psicología del Deporte en su universidad hace cuatro años, porque el vacío en la formación era enorme."
+  ],
+  "timestamps": [
+    { "time": "0:00", "label": "Introducción Juan Alejandro" },
+    { "time": "4:36", "label": "Experiencia en Reino Unido" },
+    { "time": "7:49", "label": "Cómo se formó como Psicólogo deportivo" },
+    { "time": "10:50", "label": "Qué es la Psicología Deportiva" },
+    { "time": "12:40", "label": "Experiencia como Psicólogo Deportivo" },
+    { "time": "24:16", "label": "Visualización y mentalidad compartida" },
+    { "time": "32:57", "label": "Qué tienen de diferente los atletas de élite vs los amateur" },
+    { "time": "43:20", "label": "Mentalidad de los deportistas colombianos" },
+    { "time": "55:46", "label": "Cómo afrontar los momentos difíciles en el deporte" },
+    { "time": "1:01:03", "label": "Recomendaciones para entrenadores" },
+    { "time": "1:04:05", "label": "Recomendaciones para deportistas" },
+    { "time": "1:13:00", "label": "Cierre" }
+  ],
+  "tags": [
+    "psicología deportiva Colombia",
+    "mentalidad ganadora deportistas",
+    "rendimiento deportivo mental",
+    "ansiedad en el deporte cómo manejarla",
+    "preparación psicológica atletas",
+    "alto rendimiento deporte colombiano",
+    "psicólogo deportivo Cali Colombia",
+    "neurociencia aplicada al deporte",
+    "diferencia atleta élite vs amateur",
+    "herramientas mentales para deportistas"
+  ],
+  "youtube": "https://www.youtube.com/watch?v=Hvo-DQByM2I",
+  "spotify": "https://open.spotify.com/episode/6szp09dRjAOd51pT9PdQOE?si=5bSEFWXsQxu-0ZvdxWTOkw",
+  "date": "2025-11-17",
+  "cover": "/episodes/ep-004.webp",
+  "category": "Psicología"
+}
