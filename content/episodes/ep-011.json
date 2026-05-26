@@ -1,0 +1,49 @@
+{
+  "id": "ep-011",
+  "slug": "ep-011",
+  "guest": "Sebastián Camacho",
+  "title": "De Pitalito a División I: el camino de un nadador colombiano en EE.UU. | Sebastián Camacho",
+  "blurb": "De Pitalito a División I: medallista bolivariano y centroamericano, tres podios en la NCAA y sin red de seguridad.",
+  "description": "Sebastián Camacho empezó a nadar a los 8 años en Pitalito, Huila. A los 23 ya tiene medallas en Juegos Bolivarianos, Centroamericanos y una clasificación a los Juegos Panamericanos de Santiago 2023. En su primer año universitario en EE.UU. consiguió tres podios en el campeonato nacional universitario NCAA y acaba de firmar con una universidad División I.\n\nPero entre todos esos logros hubo un año —2023— que fue simultáneamente el mejor de su carrera y el más difícil emocionalmente. En este episodio habla de eso sin filtros.\n\nConversamos sobre cómo es el sistema de becas deportivas universitarias en Estados Unidos, la diferencia brutal entre las instalaciones y el apoyo económico allá versus en Colombia, y lo que significa ponerse la camiseta de la Selección Colombia versus competir por una universidad extranjera. También hablamos de la presión mental en pruebas de fondo, del trabajo con psicólogo deportivo, y de por qué las expectativas propias pueden ser el rival más complicado.",
+  "guestBio": "Sebastián Camacho es nadador colombiano de alto rendimiento, oriundo de Pitalito, Huila. Empezó a nadar a los 8 años y a los 13 se mudó a Cali junto a su mamá y su hermana —sus dos grandes apoyos— en busca de mejores oportunidades deportivas y de vida. Especialista en pruebas de fondo: 400m combinados, 800m y 1500m libres. Representante del Valle del Cauca y la Selección Colombia, tiene medallas en Juegos Bolivarianos y Centroamericanos y se clasificó a los Juegos Panamericanos de Santiago 2023. En su primer año en EE.UU. compitiendo en División II obtuvo tres podios en el campeonato nacional universitario NCAA (dos subcampeonatos y un tercer lugar). Acaba de firmar con una universidad División I, el nivel más alto del deporte universitario estadounidense.",
+  "highlights": [
+    "Salió de Pitalito, un pueblo del Huila que casi nadie conoce, y hoy está firmando con una universidad División I en Estados Unidos.",
+    "2023 fue su mejor año deportivo —Bolivarianos, Centroamericanos, Panamericanos— y al mismo tiempo su peor momento emocional. Las expectativas propias fueron su rival más difícil.",
+    "En una mañana de los Panamericanos de Santiago quedó penúltimo en los 1500m y le escribió a su psicóloga desde el bus: 'si no gano no me gusta ya'.",
+    "En EE.UU. eres atleta primero y estudiante después: los profesores acomodan los horarios a tus entrenos, no al revés.",
+    "El sistema de becas universitarias en EE.UU. funciona como un mercado: tú eres el producto, subes tus tiempos a un portal y negocias con las universidades porcentaje de beca, vivienda y más.",
+    "Una universidad División I puede tener cinco piscinas, dos gimnasios y comedor exclusivo para atletas. En Colombia esas instalaciones son de toda una ciudad.",
+    "En Colombia los jóvenes talentos abandonan el deporte a los 17 o 18 años porque tienen que elegir entre seguir entrenando o estudiar algo que les dé de comer."
+  ],
+  "timestamps": [
+    { "time": "00:00", "label": "Introducción" },
+    { "time": "02:51", "label": "Presentación: de Pitalito a Cali" },
+    { "time": "04:45", "label": "El salto al deporte universitario en EE.UU." },
+    { "time": "08:02", "label": "Combinar deporte y academia: cómo se organiza la vida allá" },
+    { "time": "09:22", "label": "El mercado universitario: cómo se pasa de División II a División I" },
+    { "time": "10:35", "label": "Las pruebas de fondo: el diálogo interno en el agua" },
+    { "time": "12:24", "label": "2023: el año más duro fue el mejor de su carrera" },
+    { "time": "14:53", "label": "Representar a Colombia vs. representar a la universidad" },
+    { "time": "16:58", "label": "La soledad de estar lejos de la familia" },
+    { "time": "17:30", "label": "Objetivos: Centroamericanos 2025 y la ruta a los Juegos Olímpicos" },
+    { "time": "18:25", "label": "Lo que cambiaría del deporte colombiano" },
+    { "time": "20:20", "label": "Mensaje a los que están empezando" }
+  ],
+  "tags": [
+    "Sebastián Camacho nadador colombiano",
+    "natación Colombia alto rendimiento",
+    "becas deportivas universitarias EE.UU.",
+    "deporte universitario NCAA Colombia",
+    "División I natación colombiano",
+    "Juegos Panamericanos natación Colombia",
+    "natación fondo 400m 800m 1500m",
+    "Pitalito Huila deporte",
+    "selección Colombia natación",
+    "salud mental deportistas colombianos"
+  ],
+  "youtube": "https://youtu.be/OlmukhiRKgM",
+  "spotify": "https://open.spotify.com/episode/1mcKgbXiDBLlf4YRxfmHmI?si=KLsA65rSRQiXTTKDDsQ1rA",
+  "date": "2026-05-26",
+  "cover": "/episodes/ep-011.webp",
+  "category": "Natación"
+}
