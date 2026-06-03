@@ -13,6 +13,11 @@ export const metadata: Metadata = {
   },
   description:
     "Conversaciones profundas con atletas, entrenadores y profesionales que están construyendo el deporte en Colombia. Menos ruido, más contexto.",
+  icons: {
+    icon: "/favicon-32.png",
+    shortcut: "/favicon-32.png",
+    apple: "/favicon-32.png",
+  },
   openGraph: {
     type: "website",
     locale: "es_CO",
