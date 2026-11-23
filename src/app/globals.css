@@ -1,5 +1,24 @@
 @import "tailwindcss";
 
+/* Tokens de marca Ágora Deportiva (usar como bg-agora-bg, text-agora-neon, font-display…) */
+@theme {
+  --color-agora-bg: #1A1A1A;
+  --color-agora-deep: #0F0F0F;
+  --color-agora-neon: #32FF70;
+  --color-agora-white: #F5F5F5;
+  --color-agora-gray: #D3D3D3;
+  --color-agora-pine: #1D422D;
+  --font-display: var(--font-kanit), ui-sans-serif, system-ui, sans-serif;
+  --font-numeric: var(--font-teko), ui-sans-serif, system-ui, sans-serif;
+}
+
+/* Foco visible y consistente en todo el sitio */
+:where(a, button, input, textarea, select, summary):focus-visible {
+  outline: 2px solid #32FF70;
+  outline-offset: 3px;
+  border-radius: 0.5rem;
+}
+
 * {
   box-sizing: border-box;
 }
