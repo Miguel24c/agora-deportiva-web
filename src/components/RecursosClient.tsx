@@ -19,7 +19,7 @@ export default function RecursosClient({
 
   return (
     <>
-      {categorias.length > 2 && (
+      {categorias.length > 1 && (
         <div role="group" aria-label="Filtrar por categoría" className="mt-8 flex flex-wrap gap-2">
           {categorias.map((cat) => {
             const on = activa === cat;
