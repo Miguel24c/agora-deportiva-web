@@ -1,12 +1,26 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Inter, Kanit, Teko } from "next/font/google";
 import "./globals.css";
+import { SITE_URL } from "@/lib/site";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
+const kanit = Kanit({
+  subsets: ["latin"],
+  weight: ["500", "600", "700"],
+  variable: "--font-kanit",
+  display: "swap",
+});
+const teko = Teko({
+  subsets: ["latin"],
+  weight: ["500", "600"],
+  variable: "--font-teko",
+  display: "swap",
+});
 
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: {
     default: "Ágora Deportiva — Podcast",
     template: "%s | Ágora Deportiva",
@@ -35,7 +49,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="es" className="h-full">
+    <html lang="es" className={`h-full ${kanit.variable} ${teko.variable}`}>
       <body
         className={`${inter.className} flex min-h-full flex-col bg-[#1A1A1A] text-[#F5F5F5] antialiased`}
       >

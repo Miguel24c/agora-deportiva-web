@@ -32,6 +32,9 @@ export default function Header() {
           <Link href="/episodios" className="text-[#D3D3D3] hover:opacity-90">
             Episodios
           </Link>
+          <Link href="/recursos" className="text-[#D3D3D3] hover:opacity-90">
+            Recursos
+          </Link>
           <Link href="/#sobre" className="text-[#D3D3D3] hover:opacity-90">
             Sobre Ágora
           </Link>
