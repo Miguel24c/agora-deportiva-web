@@ -1,0 +1,31 @@
+{
+  "slug": "talento-juvenil-science-2025",
+  "titulo": "Los mejores de niños no son los mejores de adultos",
+  "categoria": "Formación y talento",
+  "fecha": "2026-11-23",
+  "resumen": "La revisión más grande sobre cómo se forma la élite encontró que el talento juvenil y el adulto son, en su mayoría, dos poblaciones distintas.",
+  "descripcionLarga": "Una revisión publicada en Science en 2025 reunió datos de 34.839 personas que llegaron al nivel internacional adulto, en 19 bases de datos distintas. La pregunta era simple: ¿los que brillan de niños son los mismos que brillan de adultos?\n\nLa respuesta, en su mayoría, es no. La mayor parte de los juveniles internacionales no llega a ese nivel de adultos, y la mayor parte de los internacionales adultos nunca compitió internacionalmente de juveniles. Esta ficha resume las cifras, los hallazgos principales y, sobre todo, lo que el estudio no permite concluir.",
+  "pdfUrl": "/recursos/talento-juvenil-science-2025.pdf",
+  "citaCompleta": "Güllich, A., Barth, M., Hambrick, D. Z. & Macnamara, B. N. (2025). Recent discoveries on the acquisition of the highest levels of human performance. Science, 390(6779), eadt7790.",
+  "doi": "10.1126/science.adt7790",
+  "enlaceFuente": "https://doi.org/10.1126/science.adt7790",
+  "destacado": true,
+  "cuerpo": {
+    "cifras": [
+      { "valor": "34.839", "texto": "personas de nivel internacional adulto analizadas en 19 bases de datos." },
+      { "valor": "82%", "texto": "de los juveniles internacionales no alcanza ese nivel de adultos." },
+      { "valor": "72%", "texto": "de los internacionales adultos nunca compitió internacionalmente de juveniles." }
+    ],
+    "hallazgos": [
+      "Los mejores juveniles y los mejores adultos rara vez son las mismas personas.",
+      "Los futuros campeones a menudo rendían peor al principio, pero siguieron mejorando durante más tiempo.",
+      "Los élite adultos se especializaron más tarde: los campeones olímpicos practicaron en promedio al menos otros dos deportes durante unos nueve años."
+    ],
+    "loQueNoDice": [
+      "No dice que ganar de niño sea malo.",
+      "No es evidencia causal: es una revisión observacional.",
+      "Tiene sesgo de supervivencia y hay críticas por posible sesgo de colisión.",
+      "Existen contraejemplos de precocidad confirmada: hay campeones juveniles que también fueron élite de adultos."
+    ]
+  }
+}
