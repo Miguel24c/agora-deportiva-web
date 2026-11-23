@@ -191,7 +191,7 @@ export default async function RecursoPage({ params }: Props) {
             {hallazgos.map((h, i) => (
               <li key={i} className="flex gap-4">
                 <span
-                  className="font-numeric text-3xl font-semibold leading-none text-agora-neon"
+                  className="w-6 shrink-0 text-center font-numeric text-3xl font-semibold leading-none text-agora-neon"
                   aria-hidden="true"
                 >
                   {i + 1}
